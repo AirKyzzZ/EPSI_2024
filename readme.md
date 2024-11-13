@@ -1,4 +1,4 @@
-# 🌟 Mon Portfolio Professionnel 🌟
+# 🌟 Portfolio Professionnel 🌟
 
 Bienvenue sur le dépôt GitHub de notre portfolio professionnel ! Ce projet a été réalisé dans le cadre d'un exercice pour améliorer nos compétences en **Git**, **HTML** et **CSS**.
 
