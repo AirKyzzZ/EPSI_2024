@@ -63,6 +63,7 @@ Dans le but de parfaire vos connaissances de Git, il vous faudra créer un petit
 ### Étape 5 : README
 - Créez un fichier README avec :
   - Une capture d'écran de votre page d'index.
+  ![alt text](image-2.png)
   - Les noms de tous les membres de l’équipe : **Maxime** et **Mael**.
 
 ---
