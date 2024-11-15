@@ -18,8 +18,8 @@ Bienvenue sur le dépôt GitHub de notre portfolio professionnel ! Ce projet a �
 
 ## Prérequis et Infos
 - **Connaissances travaillées** : Git, HTML, CSS
-- **Temps moyen** : 2 heures
-- **Taille Équipe** : 2-3
+- **Temps moyen** : 4 heures
+- **Taille Équipe** : 2
 - **Difficulté** : Facile
 
 ## Connaissances Travaillées
@@ -37,10 +37,6 @@ Le rendu doit être sous forme d’un PDF contenant :
 - Le titre du projet
 - Une liste des membres de l’équipe
 - Un lien vers votre repo Git
-
-Ce PDF sera envoyé à : `simon.bedard@mail-formateur.net`
-
-> **Note** : Si quelqu’un ne fait aucun commit sur votre repo, il sera noté d’un 0.
 
 ## Références
 - Cours GIT
