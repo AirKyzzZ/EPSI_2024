@@ -85,7 +85,6 @@ p:hover {
 
 /* Mael */
 
-
 .mael {
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
@@ -119,7 +118,6 @@ header a:hover {
     text-decoration: underline;
 }
 
-/* Section principale */
 .section {
     max-width: 800px;
     margin: 2rem auto;
@@ -174,11 +172,17 @@ header a:hover {
 
 .project-card img {
     width: 100%;
-    height: auto;
+    height: auto; 
     max-height: 200px;
     object-fit: cover;
     border-radius: 4px;
     margin-bottom: 0.5rem;
+}
+
+.maximedebile {
+    width : 720px;
+    height : 720px;
+    object-fit: cover;
 }
 
 .project-card p {
@@ -194,3 +198,4 @@ header a:hover {
 .contact a:hover {
     text-decoration: underline;
 }
+
