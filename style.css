@@ -426,12 +426,3 @@ header a:hover {
     color: #666;
 }
 
-.contact a {
-    color: #0073e6;
-    text-decoration: none;
-}
-
-.contact a:hover {
-    text-decoration: underline;
-}
-
