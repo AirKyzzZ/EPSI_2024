@@ -20,17 +20,11 @@ Bienvenue sur le dépôt GitHub de notre portfolio professionnel ! Ce projet a �
 - **Connaissances travaillées** : Git, HTML, CSS
 - **Temps moyen** : 4 heures
 - **Taille Équipe** : 2
-- **Difficulté** : Facile
 
 ## Connaissances Travaillées
 Cet exercice permet de travailler sur :
 - **Git** : gestion de versions, branches, pull requests
 - **HTML & CSS** : création de pages web, design épuré
-
-## Infos
-- **Temps moyen** : 2 heures
-- **Taille Équipe** : 2-3
-- **Difficulté** : Facile
 
 ## Rendu
 Le rendu doit être sous forme d’un PDF contenant :
