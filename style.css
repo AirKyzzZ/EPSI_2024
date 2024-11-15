@@ -3,7 +3,7 @@
     padding : 0;
 }
 
-body {
+.maxime {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -122,3 +122,5 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+ul 
