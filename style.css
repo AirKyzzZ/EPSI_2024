@@ -3,7 +3,6 @@
     padding : 0;
 }
 
-/* Animation : Fade In */
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -15,7 +14,6 @@
     }
 }
 
-/* Animation : Slide from Left */
 @keyframes slideInLeft {
     from {
         opacity: 0;
@@ -27,7 +25,6 @@
     }
 }
 
-/* Animation : Scale Up */
 @keyframes scaleUp {
     from {
         opacity: 0;
@@ -39,7 +36,6 @@
     }
 }
 
-/* Animation : Rotate In */
 @keyframes rotateIn {
     from {
         opacity: 0;
@@ -51,7 +47,6 @@
     }
 }
 
-/* Appliquer des animations spécifiques */
 .container {
     opacity: 0;
     animation: fadeIn 1.5s ease forwards;
@@ -162,7 +157,6 @@ footer {
     height: 30px;
 }
 
-/* Responsive Styles */
 @media (max-width: 768px) {
     .container {
         flex-direction: column;
@@ -257,9 +251,9 @@ p:hover {
 }
 
 footer {
-    background-color: #333; /* Couleur de fond sombre */
-    color: #fff; /* Texte blanc */
-    padding: 20px 0; /* Espacement vertical */
+    background-color: #333; 
+    color: #fff;
+    padding: 20px 0;
     text-align: center;
     font-family: Arial, sans-serif;
     font-size: 0.9rem;
@@ -268,7 +262,7 @@ footer {
     flex-shrink: 0;
 }
 
-/* Alignement en colonnes */
+
 footer .social-media, footer .contact {
     margin: 10px 0;
 }
@@ -282,28 +276,27 @@ footer .social-media a {
 footer .social-media a img {
     width: 30px;
     height: 30px;
-    filter: grayscale(100%); /* Grayscale par défaut */
+    filter: grayscale(100%);
     transition: filter 0.3s ease;
 }
 
 footer .social-media a:hover img {
-    filter: grayscale(0%); /* Retire le grayscale au survol */
-    transform: scale(1.2); /* Agrandissement au survol */
+    filter: grayscale(0%);
+    transform: scale(1.2); 
 }
 
 footer .contact a {
-    color: #4CAF50; /* Couleur verte moderne */
+    color: #4CAF50;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
 footer .contact a:hover {
-    color: #80e27e; /* Couleur plus claire au survol */
+    color: #80e27e; 
     text-decoration: underline;
 }
 
-/* Ligne de séparation */
 footer hr {
     border: none;
     height: 1px;
@@ -311,7 +304,6 @@ footer hr {
     margin: 15px 0;
 }
 
-/* Copie des droits */
 footer p {
     margin-top: 10px;
     font-size: 0.8rem;
